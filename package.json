@@ -30,7 +30,7 @@
     "url": "http://github.com/zrrrzzt/tfk-api-schools/issues"
   },
   "devDependencies": {
-    "hapi": "17.7.0",
+    "hapi": "17.8.1",
     "jscs": "3.0.7",
     "mocha": "5.2.0",
     "supertest": "3.3.0"
